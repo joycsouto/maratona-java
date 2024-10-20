@@ -1,4 +1,5 @@
-import java.lang.reflect.Array;
+package BásicoJava;
+
 import java.util.Scanner;
 
 public class vExerciseArray {

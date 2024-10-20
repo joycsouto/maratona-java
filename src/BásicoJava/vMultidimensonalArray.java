@@ -1,3 +1,5 @@
+package BásicoJava;
+
 public class vMultidimensonalArray {
     public static void main(String[] args) {
         int[][] dias = new int[4][4];
