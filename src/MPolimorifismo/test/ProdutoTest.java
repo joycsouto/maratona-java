@@ -1,4 +1,4 @@
-package MPolimorifismo;
+package MPolimorifismo.test;
 
 import MPolimorifismo.dominio.Computador;
 import MPolimorifismo.dominio.Produto;
@@ -13,7 +13,7 @@ public class ProdutoTest {
         produto01.Calculartaxa();
         produto02.Calculartaxa();
 
-        CalculadoraImposto.CalculadoraImpostoTomate(Tomate tomate);
+
 
     }
 }

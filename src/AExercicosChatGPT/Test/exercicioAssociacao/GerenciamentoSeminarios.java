@@ -1,9 +1,12 @@
-package AExercicosChatGPT.Test;
+package AExercicosChatGPT.Test.exercicioAssociacao;
 
-import AExercicosChatGPT.domain.Estudantes;
+
 import AExercicosChatGPT.domain.Local;
-import AExercicosChatGPT.domain.Professor;
-import AExercicosChatGPT.domain.Seminario;
+
+import AExercicosChatGPT.domain.exercicoAssociacao.Estudantes;
+import AExercicosChatGPT.domain.exercicoAssociacao.Professor;
+import AExercicosChatGPT.domain.exercicoAssociacao.Seminario;
+
 
 public class GerenciamentoSeminarios {
     public static void main(String[] args) {

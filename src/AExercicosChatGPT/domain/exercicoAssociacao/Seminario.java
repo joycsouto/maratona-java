@@ -1,4 +1,6 @@
-package AExercicosChatGPT.domain;
+package AExercicosChatGPT.domain.exercicoAssociacao;
+
+import AExercicosChatGPT.domain.Local;
 
 public class Seminario {
     private String NomeSeminario;

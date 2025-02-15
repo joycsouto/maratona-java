@@ -1,4 +1,5 @@
 package Kclassesabstratas.dominio;
 
-public class Pessoa {
+public abstract class Pessoa {
+    public abstract void imprime();
 }

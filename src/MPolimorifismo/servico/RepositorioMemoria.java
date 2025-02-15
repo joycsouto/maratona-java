@@ -1,4 +1,10 @@
 package MPolimorifismo.servico;
 
-public class RepositorioMemoria {
+import MPolimorifismo.repositorio.Repositorio;
+
+public class RepositorioMemoria implements Repositorio {
+    @Override
+    public void salvar() {
+        System.out.println("Salvando em memoria...");
+    }
 }

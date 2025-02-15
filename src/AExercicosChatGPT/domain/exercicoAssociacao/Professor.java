@@ -1,4 +1,7 @@
-package AExercicosChatGPT.domain;
+package AExercicosChatGPT.domain.exercicoAssociacao;
+
+import AExercicosChatGPT.domain.exercicoAssociacao.Estudantes;
+import AExercicosChatGPT.domain.exercicoAssociacao.Seminario;
 
 public class Professor {
     private String nome;

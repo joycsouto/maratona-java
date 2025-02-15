@@ -1,4 +1,5 @@
-package AExercicosChatGPT.domain;
+package AExercicosChatGPT.domain.exercicoAssociacao;
+
 
 public class Estudantes {
     private String nome;

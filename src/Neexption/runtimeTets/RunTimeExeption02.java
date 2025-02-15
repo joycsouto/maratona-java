@@ -1,6 +1,6 @@
 package Neexption.runtimeTets;
 
-public class RunTimeExeption01 {
+public class RunTimeExeption02 {
     public static void main(String[] args) {
         divisao(5, 0);
         System.out.println("codigo finalizadok ");
