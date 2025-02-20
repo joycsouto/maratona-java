@@ -6,7 +6,8 @@ import java.time.LocalDate;
 import java.time.Period;
 
 public class Pessoa {
-    private String name;
+    private String
+            name;
     private LocalDate dataNascimento;
 
     public Pessoa(String name) {
