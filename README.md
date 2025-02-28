@@ -49,6 +49,9 @@ public static void main(String[] args) {
 ```
 ### Emojis ###
 Bom dia, vamo tomar um ☕?
+### PDF ###
 
 
 
+
+[PDF-MarkDown-Guanabara](https://github.com/user-attachments/files/19032886/guia-markdown.pdf)
