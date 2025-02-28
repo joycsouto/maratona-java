@@ -22,5 +22,33 @@
 * Para colocar um link dentro do colchete, escreve a descrição, e dentro do parentese a URL
 * [Acesse meu GitHub](https://github.com/joycsouto)
   ### Tabelas ###
-  * Para se criar uma tabela primeiro se 
+  * Para se criar uma tabela primeiro se coloca  um pipe (|) com um espaço e depois os dados, sempre no centro ,depois para as linhas se poe um pipe e tracinhos, e por ultimo os dados da linha sempre com um pipe no inicio e no fim com os dados no centro dos pipes
+  * 
+| Div | Luz | Água | Int | 
+|---|---|---|---|
+| 1 | 100  | 100 | 100 |
+
+### Adiconando Código ###
+Se por exemplo eu pegar um código no Java para ficar bem trascrito eu ponho dentro de três crases ``` ´´´
+
+`
+System.out.println(n);
+`
+```
+public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int numeros[] = new int[5];
+        numeros[0] = 15;
+        numeros[1] = 13;
+        numeros[3] = 0;
+        numeros[4] = 02;
+        for (int n : numeros){
+            System.out.println(n);
+        }
+    }
+```
+### Emojis ###
+Bom dia, vamo tomar um ☕?
+
+
 
