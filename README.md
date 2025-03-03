@@ -1,57 +1,90 @@
-# Revisão Markdown #
-* Para deixar em italico *asterisco* 
-* Para deixar em negrito __duas underlines__
-* Com um risco no meio ~~dois tils~~
-* Posso misturar as duas configs __*Em negrito e italico, duas underlines e um asterisco no início e fim*__
-### Lista Ordenada ###
-* Para fazer uma  lista de números , basta colocar um número e o ponto final no inicio:
-1. ola
-2. ola
-3. ola
-4. ola
-### Check List ###
-* Abra conchetes no inicio, e para dar um check ponha um x
-* [ ] arroz
-* [ ] feijao
-*  [x] açúcar
-### E a lista por Tópicos ###
-* Ponha um asterisco no inicio, e seja feliz
-  ### Melhor Linguagem de Programação? ###
-![melhor linguagem](https://github.com/user-attachments/assets/22582492-9cfa-4101-b9b6-186138524c35)
-### Links ###
-* Para colocar um link dentro do colchete, escreve a descrição, e dentro do parentese a URL
-* [Acesse meu GitHub](https://github.com/joycsouto)
-  ### Tabelas ###
-  * Para se criar uma tabela primeiro se coloca  um pipe (|) com um espaço e depois os dados, sempre no centro ,depois para as linhas se poe um pipe e tracinhos, e por ultimo os dados da linha sempre com um pipe no inicio e no fim com os dados no centro dos pipes
-  * 
-| Div | Luz | Água | Int | 
-|---|---|---|---|
-| 1 | 100  | 100 | 100 |
-
-### Adiconando Código ###
-Se por exemplo eu pegar um código no Java para ficar bem trascrito eu ponho dentro de três crases ``` ´´´
-
-`
-System.out.println(n);
-`
-```
-public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        int numeros[] = new int[5];
-        numeros[0] = 15;
-        numeros[1] = 13;
-        numeros[3] = 0;
-        numeros[4] = 02;
-        for (int n : numeros){
-            System.out.println(n);
-        }
-    }
-```
-### Emojis ###
-Bom dia, vamo tomar um ☕?
-### PDF ###
+# Maratona-Java DevDojo - Meu Aprendizado 🚀
 
 
+## Sobre o Curso 📚
+Este repositório contém minhas anotações e códigos do curso **Java DevDojo**, parte do **roadmap do [Lucas Carrilho](https://github.com/karilho) (Dev Magro)**.. Aqui, você encontrará uma revisão dos principais conceitos abordados, com links para os tópicos e exemplos práticos. Além disso, este README também funciona como meu portfólio de aprendizado!
+
+## Índice 📌
+- [Introdução ao Java](#introducao-ao-java)
+- [Orientação a Objetos](#orientacao-a-objetos)
+- [Exceções e Manipulação de Arquivos](#excecoes-e-manipulacao-de-arquivos)
+- [Coleções e Generics](#colecoes-e-generics)
+- [Projetos e Desafios](#projetos-e-desafios)
+- [Recursos Extras](#recursos-extras)
+- [Sobre Mim](#sobre-mim)
+
+---
+
+## Introdução ao Java 🖥️
+📌 **Resumo:** Breve introdução à linguagem, sintaxe básica e estrutura de um programa em Java.
+
+🔗 **Tópicos:**
+- [Variáveis e Tipos de Dados](src/maratona/src/AAnotações/Variaveis.md)
+- [Estruturas Condicionais](src/maratona/src/AAnotações/EstruturasCondicionais.md)
+- [Laços de Repetição](src/maratona/src/AAnotações/LacosRepeticao.md)
+
+---
+
+## Orientação a Objetos 🎭
+📌 **Resumo:** Conceitos fundamentais de OOP, como classes, objetos, herança e polimorfismo.
+
+🔗 **Tópicos:**
+- [Classes e Objetos](src/maratona/src/AAnotações/POO.md)
+- [Encapsulamento e Modificadores de Acesso](src/maratona/src/AAnotações/POO.md)
+- [Herança e Polimorfismo](src/maratona/src/AAnotações/POO.md)
+- [Construtores](src/maratona/src/AAnotações/POO.md)
+- [Blocos de Inicialização](src/maratona/src/AAnotações/POO.md)
+- [ Modificador Estático](src/maratona/src/AAnotações/POO.md)
+- [ Sobrescrita](src/maratona/src/AAnotações/POO.md)
+- [ Modificador Final](src/maratona/src/AAnotações/POO.md)
+- [ Enumeração](src/maratona/src/AAnotações/POO.md)
+- [Classes Abstratas](src/maratona/src/AAnotações/POO.md)
+- [nterface](src/maratona/src/AAnotações/POO.md)
 
 
-[PDF-MarkDown-Guanabara](https://github.com/user-attachments/files/19032886/guia-markdown.pdf)
+---
+
+## Exceções e Manipulação de Arquivos 📄
+📌 **Resumo:** Como lidar com erros em Java e trabalhar com arquivos.
+
+🔗 **Tópicos:**
+- [Tratamento de Exceções](link_para_o_topico)
+- [Try, Catch e Finally](link_para_o_topico)
+- [Leitura e Escrita de Arquivos](link_para_o_topico)
+
+---
+
+## Coleções e Generics 📦
+📌 **Resumo:** Como usar listas, mapas e outras coleções em Java.
+
+🔗 **Tópicos:**
+- [ArrayList e LinkedList](link_para_o_topico)
+- [HashMap e HashSet](link_para_o_topico)
+- [Generics](link_para_o_topico)
+
+---
+
+## Projetos e Desafios 🚀
+Aqui estão alguns dos projetos que desenvolvi durante o curso:
+
+- 🔹 [Projeto X](link_para_projeto)
+- 🔹 [Desafio Y](link_para_desafio)
+- 🔹 [Aplicação Z](link_para_aplicacao)
+
+---
+
+## Recursos Extras 📖
+- 📌 [Documentação Oficial do Java](https://docs.oracle.com/en/java/)
+- 🎥 [Playlist do Curso](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
+- 📚 [Livros Recomendados](link_para_livros)
+
+---
+
+## Sobre Mim 👨‍💻
+💡 **Quem sou eu?** Sou um desenvolvedor em formação, apaixonado por tecnologia e aprendizado contínuo. Estou sempre buscando aprimorar minhas habilidades e compartilhar conhecimento.
+
+📍 **Conecte-se comigo:**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joyce-souto-1482a719a/)
+- 🔗 [GitHub](https://github.com/joycsouto)
+
+🚀 Vamos juntos nessa jornada Java! 😃
