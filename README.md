@@ -83,7 +83,7 @@ Aqui estão alguns dos projetos que desenvolvi durante o curso:
 ---
 
 ## Sobre Mim 👨‍💻
-💡 **Quem sou eu?** Sou um desenvolvedor em formação, apaixonado por tecnologia e aprendizado contínuo. Estou sempre buscando aprimorar minhas habilidades e compartilhar conhecimento.
+💡 **Quem sou eu?** Sou uma desenvolvedora em formação, apaixonada por tecnologia e aprendizado contínuo. Estou sempre buscando aprimorar minhas habilidades e compartilhar conhecimento.
 
 📍 **Conecte-se comigo:**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/joyce-souto-1482a719a/)
