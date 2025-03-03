@@ -1,5 +1,7 @@
 # Maratona-Java DevDojo - Meu Aprendizado 🚀
 
+![maratona-java](https://github.com/user-attachments/assets/14e90bca-8c87-466a-b417-b620e3e51554)
+
 
 ## Sobre o Curso 📚
 Este repositório contém minhas anotações e códigos do curso **Java DevDojo**, parte do **roadmap do [Lucas Carrilho](https://github.com/karilho) (Dev Magro)**.. Aqui, você encontrará uma revisão dos principais conceitos abordados, com links para os tópicos e exemplos práticos. Além disso, este README também funciona como meu portfólio de aprendizado!
@@ -86,5 +88,3 @@ Aqui estão alguns dos projetos que desenvolvi durante o curso:
 📍 **Conecte-se comigo:**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/joyce-souto-1482a719a/)
 - 🔗 [GitHub](https://github.com/joycsouto)
-
-🚀 Vamos juntos nessa jornada Java! 😃
