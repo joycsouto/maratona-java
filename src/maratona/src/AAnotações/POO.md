@@ -80,6 +80,7 @@ A Orientação a Objetos é um paradigma de programação que permite modelar o 
 ---
 
 ## 4. � **Blocos de Inicialização**
+[Bloco de inicalização](src/maratona/src/eblocoDeInicialização)
 - **O que são?**  
   Blocos de código executados antes do construtor.
     - **Bloco estático**: Executado uma vez, quando a classe é carregada.
