@@ -6,15 +6,6 @@
 ## Sobre o Curso 📚
 Este repositório contém minhas anotações e códigos do curso **Java DevDojo**, parte do **roadmap do [Lucas Carrilho](https://github.com/karilho) (Dev Magro)**.. Aqui, você encontrará uma revisão dos principais conceitos abordados, com links para os tópicos e exemplos práticos. Além disso, este README também funciona como meu portfólio de aprendizado!
 
-## Índice 📌
-- [Introdução ao Java](#introducao-ao-java)
-- [Orientação a Objetos](#orientacao-a-objetos)
-- [Exceções e Manipulação de Arquivos](#excecoes-e-manipulacao-de-arquivos)
-- [Coleções e Generics](#colecoes-e-generics)
-- [Projetos e Desafios](#projetos-e-desafios)
-- [Recursos Extras](#recursos-extras)
-- [Sobre Mim](#sobre-mim)
-
 ---
 
 ## Introdução ao Java 🖥️
