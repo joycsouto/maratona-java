@@ -6,9 +6,17 @@ public class User {
     private Integer age;
     private Double height;
 
+    public User(String name, String email, Integer age, Double height) {
+        this.name = name;
+        this.email = email;
+        this.age = age;
+        this.height = height;
+    }
+
     public String getName() {
         return name;
     }
+
 
     public String setName(String name) {
         this.name = name;
