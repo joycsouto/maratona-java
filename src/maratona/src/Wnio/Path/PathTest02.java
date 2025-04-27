@@ -1,4 +1,4 @@
-package Wnio;
+package Wnio.Path;
 
 import java.io.IOException;
 import java.nio.file.Files;
