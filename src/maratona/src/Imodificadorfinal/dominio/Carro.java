@@ -1,4 +1,4 @@
-package iConstantes.dominio;
+package Imodificadorfinal.dominio;
 
 public final class Carro {//a classe não podera ser extendida
     private String name;
