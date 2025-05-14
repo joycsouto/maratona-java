@@ -1,9 +1,9 @@
-package jEnum.test;
+package Jenum.test;
 
 
-import jEnum.dominio.Cliente;
-import jEnum.dominio.TipoCliente;
-import jEnum.dominio.TipoPagamento;
+import Jenum.dominio.Cliente;
+import Jenum.dominio.TipoCliente;
+import Jenum.dominio.TipoPagamento;
 
 public class ClienteTest01 {
     public static void main(String[] args) {

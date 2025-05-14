@@ -1,4 +1,4 @@
-package jEnum.dominio;
+package Jenum.dominio;
 
 public enum TipoPagamento {
 

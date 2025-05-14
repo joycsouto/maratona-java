@@ -1,4 +1,4 @@
-package jEnum.dominio;
+package Jenum.dominio;
 
 public enum TipoCliente {
     PESSOA_FISICA(1,"Pessoa Física"),
