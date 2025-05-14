@@ -3,7 +3,7 @@
 Os métodos são blocos de código reutilizáveis que realizam uma tarefa específica. Eles ajudam a organizar o código, evitando repetição e facilitando a manutenção.
 
 ---
- [Métodos](../cMetodos/dominio)
+ [Métodos](../Dmetodos/dominio)
 
 ## 📌 Estrutura de um Método
 Um método pode ser definido com:
