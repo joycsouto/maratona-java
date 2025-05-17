@@ -4,6 +4,15 @@ public class Smartphone {
     private String serialNumeber;
     private String marca;
 
+    @Override
+    public boolean equals(Object obj) {
+        if(obj == null) return false;
+        if (this == obj) return true;
+        if (this.getClass() != obj.getClass()) return false;
+        Smartphone smartphone = (Smartphone) obj;
+        return serialNumeber != null &&  serialNumeber.equals( smartphone.serialNumeber);
+    }
+
     public Smartphone(String serialNumeber, String marca) {
         this.serialNumeber = serialNumeber;
         this.marca = marca;
