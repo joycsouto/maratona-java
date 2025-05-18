@@ -12,7 +12,6 @@ public class Smartphone {
         Smartphone smartphone = (Smartphone) obj;
         return serialNumeber != null &&  serialNumeber.equals( smartphone.serialNumeber);
     }
-
     @Override
     public int hashCode() {
         return serialNumeber == null ? 0 :this.serialNumeber.hashCode();
