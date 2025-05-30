@@ -2,13 +2,13 @@ package VCollections.domain;
 
 import java.util.Objects;
 
-public class Book {
-private Long id;
-private String nome;
-private double preco;
+public class Book implements Comparable<Book> {
+    private Long id;
+    private String nome;
+    private double preco;
 
     public Book(Long id, String nome, double preco) {
-        Objects.requireNonNull(id,"id não pode ser nulo");
+        Objects.requireNonNull(id, "id não pode ser nulo");
         Objects.requireNonNull(nome, "nome não pode ser nulo");
         this.id = id;
         this.nome = nome;
@@ -60,4 +60,20 @@ private double preco;
     public void setPreco(double preco) {
         this.preco = preco;
     }
-}
+
+    @Override
+    public int compareTo(Book o) {
+
+//        if (this.id < o.getId()) {
+//            return -1;
+//        } else if (this.id.equals(o.getId())) {
+//            return 0;
+//        } else {
+//            return 1;
+//        }
+//    }
+  //  return id.compareTo(o.getId());
+   //return this.nome.compareTo(o.getNome());
+ return Double.compare(preco,o.getPreco());
+ //return Double.valueOf(preco).compareTo(o.getPreco());
+}}
